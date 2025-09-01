@@ -80,7 +80,7 @@ $stmt->close();
     <div class="row" style="margin-top:15px;">
       <a class="btn" href="index.php">Back to Registration</a>
       <button class="btn" onclick="window.print()">Print / Save PDF</button>
-      <a class="btn danger" href="reset.php">Finish</a>
+      <a class="btn danger" href="studentrecords.php">Finish</a>
     </div>
   </div>
 </div>
